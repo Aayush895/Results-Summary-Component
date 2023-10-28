@@ -139,6 +139,11 @@ body {
   font-size: large;
   margin-top: 1rem;
   border: none;
+  cursor: pointer;
+}
+
+.summary-component > button:hover {
+  background: linear-gradient(to right, var(--light-slate-blue), var(--light-royal-blue));
 }
 
 /* Mobile Mode */
