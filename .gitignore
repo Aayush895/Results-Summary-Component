@@ -16,7 +16,6 @@
 .prettierignore
 
 /design
-/assets
 /readme.md
 /readme-template.md
 /style-guide.md
