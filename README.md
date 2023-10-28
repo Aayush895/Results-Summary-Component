@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [View the source code](https://github.com/Aayush895/Results-Summary-Component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site Link](https://aayush895.github.io/Results-Summary-Component/)
 
 ## My process
 
